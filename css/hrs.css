@@ -1,0 +1,61 @@
+/*styles.css*/
+body{
+    background-color: rgb(5, 5, 5)
+}
+h1{
+    color:rgb(252, 252, 252);
+    font-size: 250%;
+    text-align: center;
+    font-family:verdana;
+}
+h2{
+    color: aliceblue;
+    font-size: 180%;
+    text-align: center;
+    font-family:verdana;
+}
+.titu{
+    background-color:burlywood;
+    font-size:35px;
+    font-family:verdana;
+}
+.bir{
+    background-color:orangered;
+    font-size:35px;
+    font-family:verdana;
+}  
+.int{
+    background-color:rgb(18, 79, 129);
+    font-size:35px;
+    font-family:verdana;
+}
+.wir{
+    background-color:rgb(12, 122, 49);
+    font-size:35px;
+    font-family:verdana;
+}
+.tituc{
+    background-color:rgb(206, 166, 80);
+    font-size:23px;
+    font-family:verdana; 
+}
+.tituct{
+    background-color: rgb(206, 182, 75);
+    font-size:20px;
+    font-family:verdana; 
+}
+.birc{
+    background-color:orangered;
+    font-size:20px;
+    font-family:verdana; 
+}
+.intc{
+    background-color:rgb(18, 79, 129);
+    font-size:20px;
+    font-family:verdana; 
+}
+.wirc{
+    background-color:rgb(12, 122, 49);
+    font-size:18px;
+    font-family:verdana; 
+}

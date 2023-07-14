@@ -1,0 +1,60 @@
+body{
+    background-color: rgb(17, 17, 16)
+}
+h1{
+    color:rgb(208, 209, 209);
+    font-size: 230%;
+    text-align:center;
+    font-family:verdana;
+}
+.fbr{
+    background-color:rgb(211, 82, 22);
+    color: rgb(228, 220, 220);
+    font-size:230%;
+    text-align:center;
+    font-family:verdana;  
+}
+.int{
+    background-color:rgb(27, 68, 180);
+    color: rgb(228, 220, 220);
+    font-size:230%;
+    text-align:center;
+    font-family:verdana;  
+}
+h4{
+    color:rgb(28, 156, 81);
+    font-size:190%;
+    text-align:center;
+    font-family:verdana;    
+
+}
+.vtds1{
+    background-color:rgb(30, 139, 66);
+    color: rgb(228, 220, 220);
+    font-size:190%;
+    font-family:verdana;   
+}
+.vtds2{
+    background-color:rgb(45, 155, 131);
+    color: rgb(10, 10, 10);
+    font-size:175%;
+    font-family:verdana;   
+}
+.vtds3{
+    background-color:rgb(165, 89, 59);
+    color: rgb(10, 10, 10);
+    font-size:175%;
+    font-family:verdana;   
+}
+.vtds4{
+    background-color:rgb(59, 112, 77);
+    color: rgb(252, 248, 248);
+    font-size:190%;
+    font-family:verdana;   
+}
+.vtds5{
+    background-color:rgb(148, 141, 51);
+    color: rgb(10, 10, 10);
+    font-size:180%;
+    font-family:verdana;   
+}
